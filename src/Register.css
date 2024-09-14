@@ -1,0 +1,14 @@
+.login {
+  height: 600px;
+}
+input {
+  outline: none;
+  background-color: transparent;
+  border-bottom-width: 2px;
+  width: 100%;
+}
+
+p {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+}
